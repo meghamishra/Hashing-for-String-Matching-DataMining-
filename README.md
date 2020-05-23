@@ -1,6 +1,6 @@
 
 # []()ESE545 Project1
-##### []()Following are the files submitted:
+##### []()File Structure:
 
 1. 
     
